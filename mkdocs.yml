@@ -1,0 +1,4 @@
+site_name: Bald Money
+theme: material
+plugins:
+  - blog
