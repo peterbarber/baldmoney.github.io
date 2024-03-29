@@ -1,4 +1,7 @@
 site_name: Bald Money
+
 theme: material
+
 plugins:
-  - blog
+  - blog:
+      blog_dir: blog
