@@ -93,12 +93,16 @@ We've spent many hours comparing the best balanced superannuation funds availab
 
 _We’ve even found the exact fund option you should invest in (and it's not the default option)_  
 
-_\*80% of Australians are invested in the default balanced option within their superannuation fund. If you don't know, then you're probably in the default balanced choice_
+_\*80% of Australians are invested in the default balanced option within their superannuation fund. 
+If you don't know, then you're probably in the default balanced choice_
 
 
 We are not affiliated with any super fund and we do not receive commission or kickbacks from any financial institutions.
 
-At Bald Money we pride ourselves on putting you first, not being biased by companies trying to flog you stuff. Don't get ripped off!
+At Bald Money we pride ourselves on putting you first, not being biased by companies trying to flog you stuff. 
+Don't get ripped off!
 
-## You can save yourself $100,000s
 
+See our [Recommended Super Fund](best-super-fund)
+
+## You can save yourself $100,000s!

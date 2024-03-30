@@ -5,6 +5,8 @@ date: 2017-03-19
 
 **I'm a big fan of index investing, It's the secret weapon that gives the average Joe the ability to play with and soundly beat the big bully’s of the investment world.**
 
+<!-- more -->
+
  
 
 ## **What is an Index?**

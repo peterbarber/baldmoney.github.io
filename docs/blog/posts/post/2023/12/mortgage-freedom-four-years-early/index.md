@@ -7,19 +7,19 @@ How you might say? I don’t have extra money just laying around to pop into my 
 
 Well, this one surprised me and it takes just a few minutes to set up.
 
-.
+<!-- more -->
 
 **Switch to fortnightly repayments instead of monthly**
 
-.
+
 
 That’s it!
 
-.
+
 
 “OK Baldy man, so how does this help me unchain from the shackles of my mortgage?” I hear you say.
 
-.
+
 
 In two ways:
 

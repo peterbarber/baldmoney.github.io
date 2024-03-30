@@ -3,7 +3,10 @@ title: "Useful Apps - Blinkist"
 date: 2018-03-04
 ---
 
-I've been using Blinkist for a few months now and while the mobile had a few teething problems I'm pleased to say they now seem ot have been fixed with the latest release.
+I've been using Blinkist for a few months now and while the mobile had a few teething problems 
+I'm pleased to say they now seem ot have been fixed with the latest release.
+
+<!-- more -->
 
 Blinkist summarises books into easy digestible 'Blinks' which can either be read or listnened to via the audio player built into the app. I've found it a great way to get the overall message of a book in about 10 minutes, rather than spending about 10 hours reading the full book.
 

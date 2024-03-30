@@ -7,6 +7,8 @@ date: 2021-04-05
 
 ![](images/a5993e23-9318-42cb-83b2-496c9ff502e4.png)
 
+<!-- more -->
+
 # Invest Like the Best - Patrick O'Shaughnessy
 
 ![](images/5ce3f029-8946-4fb5-ba24-c30bf8357426.png)

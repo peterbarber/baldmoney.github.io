@@ -3,7 +3,11 @@ title: "Save Your Retirement with The Investment Fees Calculator"
 date: 2017-03-19
 ---
 
-Did you know that a seemingly small fee of just 1% on your investments can result in you losing more than 20% of your balance over 40 years, and that a 1.5% fee can result in you being deprived of around 30% of your investment over the same time!?
+Did you know that a seemingly small fee of just 1% on your investments can result in you losing more than 
+20% of your balance over 40 years, and that a 1.5% fee can result in you being deprived of around 30% of 
+your investment over the same time!?
+
+<!-- more -->
 
 I was absolutely shocked when I discovered this [fact](http://www.nytimes.com/2014/03/02/your-money/give-fees-an-inch-and-theyll-take-a-mile.html?_r=0). This meant that all those managed funds, everyone's investments including their pensions could potentially be missing a huge chunk of change over the long term. And the worst thing about this? Most people will never even know or realise.
 

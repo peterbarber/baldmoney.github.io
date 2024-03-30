@@ -3,11 +3,13 @@ title: "Outsource Shopping"
 date: 2017-03-07
 ---
 
-## ![](images/IMG_20170308_090837-225x300.jpg)
+## ![](images/IMG7.jpg)
 
 ## Ding Dong!!
 
 Another parcel is plonked onto my doormap and I'm still in my dressing gown sipping a morning coffee :-)
+
+<!-- more -->
 
 Why go shopping when you can get someone else to go for you? My toaster broker last week, but instead of making a special trip to the supermarket I hopped on ebay and ordered a new toaster with free delivery, this took about ten minutes. Why not just go shopping?
 

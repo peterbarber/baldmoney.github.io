@@ -3,6 +3,11 @@ title: "Where To Invest?"
 date: 2023-04-23
 ---
 
+# Where should I stick my hard earned dough?
+Here are some ideas ordered by likely return 
+
+<!-- more -->
+
 | Investment Type | Expected Return |
 | --- | --- |
 | Paying off credit card debt | \-15.0% - 0% |

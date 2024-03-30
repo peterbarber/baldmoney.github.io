@@ -1,5 +1,5 @@
 ---
-title: "RecomendedSuperFund"
+title: "Recomended Super Fund"
 date: 2014-10-04
 ---
 

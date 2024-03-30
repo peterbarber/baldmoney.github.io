@@ -3,9 +3,13 @@ title: "Track Your Portfolio"
 date: 2019-01-01
 ---
 
-- ![](images/nexus2cee_unnamed1.png)
+![](images/nexus2cee_unnamed1.png)
 
-For the last ten years or so I’ve been looking for a way to track my share portfolio. The best I’ve come up with so far is using my own spreadsheet and manually updating it with the balance of each of my trading accounts. Laborious and slow. If only we had a Personal Capital type tool available in the UK like our cousins in the US. Lucky buggers always seem to have the best tech first!  
+For the last ten years or so I’ve been looking for a way to track my share portfolio.
+
+<!-- more -->
+
+The best I’ve come up with so far is using my own spreadsheet and manually updating it with the balance of each of my trading accounts. Laborious and slow. If only we had a Personal Capital type tool available in the UK like our cousins in the US. Lucky buggers always seem to have the best tech first!  
 
 To my mind the best option would be an online service that could access all my trading accounts (read only and using an authorised API, not simply pretending to be me logging in and violating the terms of usage of my trading account). At any time I would be able to get a snapshot of my current net worth, see if I’m on track to achieve FIRE,  plan for capital gains tax and lots of other lovely financial considerations.  
 

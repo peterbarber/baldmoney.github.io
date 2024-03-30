@@ -5,7 +5,12 @@ date: 2019-04-21
 
 - ![](images/spaceship_voyager_invest.png)
 
-I’ve recently signed up for Spaceship’s Voyager investing application and so far I’m refreshingly surprised by how good a deal it is. Signing up was quick, but I did have some trouble logging in and changing my password :-(. And why do i have to use my mobile to create an account? Can’t I sign up by using my laptop and use it’s nice keyboard to enter my details?
+I’ve recently signed up for Spaceship’s Voyager investing application and so far I’m refreshingly surprised 
+by how good a deal it is. 
+
+<!-- more -->
+
+Signing up was quick, but I did have some trouble logging in and changing my password :-(. And why do i have to use my mobile to create an account? Can’t I sign up by using my laptop and use it’s nice keyboard to enter my details?
 
 Overall Voyager seems like a really accessible way for anyone to get started investing with even small amounts.
 

@@ -5,6 +5,8 @@ date: 2017-03-19
 
 I’ve been a cycle commuter for years, ever since I started employment. In fact I’ve gotten so used to pedalling my way to work, it’s actually a novelty to have to get the train or bus. I must seem like an excited kid on the bus, while everyone around me wears the blank expression that says I sit here every fucking weekday.
 
+<!-- more -->
+
 Now if only I could get my wife to cycle to work? She normally does pretty well on bike trails and mini bike rides at the weekend in a secret attempt by me to inspire a cycling epiphany, but still her main complaint is the hills in Sydney, to which I don’t really have an answer...until now.
 
 Behold ……. the EBike!   oohhh aahhhh      hold on, what is it?

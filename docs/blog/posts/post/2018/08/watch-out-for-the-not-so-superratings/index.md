@@ -3,7 +3,10 @@ title: "Watch out for the not so superratings"
 date: 2018-08-26
 ---
 
-I’ve been perusing Superrating’s top 10 funds as you do on a Sunday afternoon. (Yep, I’m a money geek). I’ve found the results they provide to be at best a little simplistic and at worst misleading.
+I’ve been perusing Superrating’s top 10 funds as you do on a Sunday afternoon. (Yep, I’m a money geek). 
+I’ve found the results they provide to be at best a little simplistic and at worst misleading.
+
+<!-- more -->
 
 My problem is that they only compare the fees that would be charged on a superannuation balance of $50,000. What if you don’t have 50 big ones in your super account? Well in short ANZ Smart Choice Super might not be the smart choice afterall!
 

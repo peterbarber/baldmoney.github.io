@@ -3,7 +3,10 @@ title: "Dividend Imputation"
 date: 2017-09-10
 ---
 
-Australia has a full dividend imputation system which gives investors an incentive to invest in Australian companies.
+Australia has a full dividend imputation system which gives investors an incentive to invest in 
+Australian companies.
+
+<!-- more -->
 
 The nice Australian tax office prevents people being taxed again on dividends that the company has already paid tax on, preventing double taxation. We are lucky, the US does not have dividend imputation and the UK has a partial system.
 

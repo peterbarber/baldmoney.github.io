@@ -9,7 +9,11 @@ tags:
 
 IS the FTSE 250 allways a better bet than the FTSE 100?
 
-Historically, it seems to have always outperformed the FTSE 100 index. Look at this comparison below over the last 17 years. The FTSE 250 has returned about 250% whereas the FTSE 100 has gained not very much at all.
+Historically, it seems to have always outperformed the FTSE 100 index. 
+
+<!-- more -->
+
+Look at this comparison below over the last 17 years. The FTSE 250 has returned about 250% whereas the FTSE 100 has gained not very much at all.
 
 ![Screenshot from 2016-08-25 20-28-18](images/Screenshot-from-2016-08-25-20-28-18.png)
 

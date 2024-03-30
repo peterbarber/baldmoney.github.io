@@ -2,6 +2,13 @@ site_name: Bald Money
 
 theme: material
 
+#nav:
+#  - index.md
+#  - best-super-fund.md
+#  - investment-fees-calculator.md
+#  - blog/index.md
+
 plugins:
   - blog:
-      blog_dir: blog
+      categories: true
+      # blog_dir: blog

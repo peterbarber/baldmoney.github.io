@@ -5,9 +5,9 @@ date: 2019-04-06
 
 - ![](images/s-l300.jpg)
 
-  
-
 This is the headline news papers should really have on the front page.  
+
+<!-- more -->
 
 Instead it’s things like this:  
 

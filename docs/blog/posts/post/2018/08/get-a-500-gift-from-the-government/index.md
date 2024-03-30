@@ -7,6 +7,8 @@ date: 2018-08-26
 
 From the superannuation co-contribution.
 
+<!-- more -->
+
 # How do I qualify?
 
 1. Earn less than $49,488

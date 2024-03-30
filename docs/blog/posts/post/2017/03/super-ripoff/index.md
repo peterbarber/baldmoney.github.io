@@ -7,7 +7,13 @@ categories:
 coverImage: "download.jpg"
 ---
 
-Recently the Murray Report found that Australian’s are paying double the fees of other Western countries for their retirement. That’s costing us $20 billion dollars each year, or an average of $1100 each!
+!![](images/download.jpg)
+
+Recently the Murray Report found that Australian’s are paying double the fees of other Western 
+countries for their retirement. 
+That’s costing us $20 billion dollars each year, or an average of $1100 each!
+
+<!-- more -->
 
 Why are Aussies being so badly ripped off? Well we could blame the funds for slugging consumers with hidden high fees and bamboozling them with complicated 100 page fund guide booklets but honestly, consumers’ apathy is resulting in them being taken for a ride. Most people simply accept their employer’s fund and never get round to checking how their fund compares. Maybe this is a consequence of the super guarantee system - quietly deducting 9.5% from your wages before you notice, squirreling it away out of sight and out of mind.
 

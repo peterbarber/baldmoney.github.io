@@ -3,9 +3,13 @@ title: "The Hedge Fund Trap"
 date: 2018-12-30
 ---
 
-- ![](images/D145_76_613_1200-1024x681.jpg)
+- ![](images/D145_76_613_1200.jpg)
 
-I love reading about Warren Buffet’s ten year bet against hedge funds. He posted the challenge on Long Bet [here](http://longbets.org/362/) (The Long Bet site was founded by Jeff Bezos). What’s interesting was that Buffett was initially met with silence and then only one man - Ted Seides of Protege Partners - stepped up to the challenge.  
+I love reading about Warren Buffet’s ten year bet against hedge funds. 
+
+<!-- more -->
+
+He posted the challenge on Long Bet [here](http://longbets.org/362/) (The Long Bet site was founded by Jeff Bezos). What’s interesting was that Buffett was initially met with silence and then only one man - Ted Seides of Protege Partners - stepped up to the challenge.  
 
 Buffett stipulated that the average of at least five hedge funds must be compared to the return of the S&P 500 index net of fees over a ten year period. In actual fact Protege Partners selected five funds of funds, so the total number of hedge funds in the running was more than 200. This would mean that  overall performance would not be distorted by the good or poor results of a single manager.  
 

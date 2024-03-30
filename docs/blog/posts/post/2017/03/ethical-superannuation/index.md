@@ -7,7 +7,11 @@ categories:
 coverImage: "Screenshot-from-2017-07-03-14-26-34.png"
 ---
 
+![](images/Screenshot-from-2017-07-03-14-26-34.png)
+
 A friend asked me to look at [www.australianethical.com.au](http://www.australianethical.com.au) for your superannuation, I wasn’t very impressed. Maybe ethical for companies, but what about retirees?
+
+<!-- more -->
 
 1 – Fees are too high MySuper balanced option total fees are (1.134%). The lowest fees are Hostplus – indexed balanced option (0.03%) which works out at about $100,000 less in retirement for a 30 year old on $100,000 a year by age 67. (see moneysmart.gov.au calculator)
 

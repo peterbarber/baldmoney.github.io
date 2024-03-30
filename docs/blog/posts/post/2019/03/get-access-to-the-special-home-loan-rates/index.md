@@ -10,7 +10,12 @@ categories:
 
 ![](images/md_5b3acedab8ea8.jpg)
 
-How do you get the cheapest home loan rate? Well, the very lowest interest rate mortgages are only available to brokers. You see banks and other lenders give brokers a special commission if they send customers their way, this comes in two forms:
+How do you get the cheapest home loan rate? 
+Well, the very lowest interest rate mortgages are only available to brokers. 
+You see banks and other lenders give brokers a special commission if they send customers their way, 
+this comes in two forms:
+
+<!-- more -->
 
 1. Upfront commission of about 0.65%
 2. Ongoing trail commision paid every year of about 0.2%

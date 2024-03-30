@@ -3,7 +3,12 @@ title: "Beware Paypal Exchange Rates"
 date: 2018-08-20
 ---
 
-It’s usually cheaper to use your credit card (especially if it’s the GE Money 28 Degrees card with 0% currency exchange fee) than to use the default exchange rate provided by Paypal which can be upto 4%
+It’s usually cheaper to use your credit card
+
+<!-- more -->
+
+(especially if it’s the GE Money 28 Degrees card with 0% currency exchange fee) 
+than to use the default exchange rate provided by Paypal which can be upto 4%
 
 From Paypal's website
 

@@ -5,6 +5,8 @@ date: 2017-03-19
 
 There are two ways to achieve the things you want in life, taking responsibility yourself or giving away that responsibility.
 
+<!-- more -->
+
 For example to buy new car, taking responsibility yourself would be to save by spending less than you earn and giving away responsibility would be buying a lotto ticket and crossing your fingers.
 
 Here’s some more examples

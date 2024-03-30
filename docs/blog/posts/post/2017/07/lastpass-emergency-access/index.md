@@ -9,7 +9,12 @@ categories:
 coverImage: "Screenshot-from-2017-07-03-14-14-02.png"
 ---
 
-I've often wondered what would happen to my online accounts when I die and more importantly how my loved ones would get access to them.
+![](images/Screenshot-from-2017-07-03-14-14-02.png)
+
+I've often wondered what would happen to my online accounts when I die and more importantly 
+how my loved ones would get access to them.
+
+<!-- more -->
 
 Well Lastpass has now solved this problem with Lastpass Emergency Access. In a nutshell - you give someone you trust access to your Lastpass account by nominating them. They then have the abiliy to request access on your death and as long as you don't deny access during the waiting period they then get access to all your online accounts.
 
