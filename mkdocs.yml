@@ -1,14 +1,37 @@
 site_name: Bald Money
+site_url: https://baldmoney.com
 
-theme: material
+theme:
+  name: material
+  logo: images/logo.png
+  features:
+    - navigation.tabs
+  font:
+    text: Bitter
 
-#nav:
-#  - index.md
-#  - best-super-fund.md
-#  - investment-fees-calc.html
-#  - blog/index.md
+nav:
+  - index.md
+  - Blog:
+      - blog/index.md
+  - Best Of:
+    - Best Super Fund (Australia): best-super-fund.md
+    - Best Forex: best-forex.md
+  - investment-fees-calculator.md
+  - screwed-by-superfund.md
+  - contribute.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - blog:
       categories: true
-      # blog_dir: blog
+  - search

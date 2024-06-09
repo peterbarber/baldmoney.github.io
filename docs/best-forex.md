@@ -20,5 +20,6 @@ Services are listed in order of cost to you the user, with the lowest cost servi
 The winner is Wise which refreshingly does not have an exchange rate markup, unlike other providers where the 
 exchange rate markup tends to be hidden away in their fee schedule.
 
-
-Want to contribute and help me keep this comparison up to date? Please raise a pull request to the [GitHub repository](https://github.com/peterbarber/baldmoney.github.io).
+!!! Info "Can you help?"
+    
+    Want to contribute and help me keep this comparison up to date? See [How to Contribute](contribute.md)
