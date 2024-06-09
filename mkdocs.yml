@@ -5,7 +5,7 @@ theme: material
 #nav:
 #  - index.md
 #  - best-super-fund.md
-#  - investment-fees-calculator.md
+#  - investment-fees-calc.html
 #  - blog/index.md
 
 plugins:

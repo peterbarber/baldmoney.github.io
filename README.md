@@ -1,17 +1,9 @@
-# baldmoney.github.io
+# Bald Money
 
-# Setup
-Domain: spacereg
-DNS: lightsail
-Hosting: Github pages
-Fund Fee Calculator hosting: Heroku
+Welcome to Bald Money!
 
-# How to deploy
-Uses Github Project Pages. 
-Do my changes on master branch
+Bald Money is an open source content project that accepts contributions from anyone wanting to help others avoid being ripped off.
 
-Publish whatever is in local with:
-> mkdocs gh-deploy
+Please raise a pull request to submit your contributions.
 
-(Even untracked or uncommitted work in local)
-
+If you have no idea what a pull request is, then read [GitHub's guide to contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
