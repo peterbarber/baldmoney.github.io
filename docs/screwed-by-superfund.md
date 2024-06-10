@@ -67,34 +67,25 @@ What would you do with a quarter of a million $'s?
 
 ![](images/Img_5.png)
 
-## Switch and have
+## Switch and have $264,645 more in retirement
 
-# $264,645
+Use the [Investment Fees Calculator](investment-fees-calculator.md) to see how much those fees are really going to cost you 
 
-# more in retirement
+## Our recommended low cost retirement fund
 
-Below we show what % you will have left in your retirement account at retirement after the cost of fees have taken their bite.
+I've spent many hours comparing the best balanced superannuation funds available in Australia\* and have identified the best low cost balanced fund.
 
-We compare your typical fund with our equivalent recommended low cost fund.
-
-
-Our recommended low cost retirement fund
-
-
-We've spent many hours comparing the best balanced superannuation funds available in Australia\* and have identified the best low cost balanced fund.
-
-_We’ve even found the exact fund option you should invest in (and it's not the default option)_ 
+_I’ve even found the exact fund option you should invest in (and it's not the default option)_ 
 
 _\*80% of Australians are invested in the default balanced option within their superannuation fund. 
 If you don't know, then you're probably in the default balanced choice_
 
-
 We are not affiliated with any super fund and we do not receive commission or kickbacks from any financial institutions.
 
 At Bald Money we pride ourselves on putting you first, not being biased by companies trying to flog you stuff. 
+
 Don't get ripped off!
 
-
-See our [Recommended Super Fund](best-super-fund)
+See our [Best Balanced Super Fund](best-super-fund.md)
 
 ## You can save yourself $100,000s!

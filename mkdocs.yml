@@ -14,10 +14,11 @@ nav:
   - Blog:
       - blog/index.md
   - Best Of:
-    - Best Super Fund (Australia): best-super-fund.md
     - Best Forex: best-forex.md
+  - Retirement Rip-Off:
+    - Are You Being Screwed By Your Retirement Fund?: screwed-by-superfund.md
+    - Best Super/Retirement Fund (Australia): best-super-fund.md
   - investment-fees-calculator.md
-  - screwed-by-superfund.md
   - contribute.md
 
 markdown_extensions:
