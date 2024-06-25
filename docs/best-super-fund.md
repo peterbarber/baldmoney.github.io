@@ -1,6 +1,6 @@
 ---
 title: "Recommended Super Fund"
-date: 2014-10-04
+date: 2014-06-04
 ---
 
 # The best low cost balanced fund is..

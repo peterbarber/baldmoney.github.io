@@ -18,7 +18,7 @@ Welcome to Bald Money where I celebrate champions and reveal the rip-offs.
 
     See our Best Of guides to know which services to manage your cash
 
-    [:octicons-arrow-right-24: Best Of ...](best-forex.md)
+    [:octicons-arrow-right-24: Best Of ...](best-of/best-forex.md)
 
 -   :material-calculator:{ .lg .middle } __Calculate__
 
@@ -47,7 +47,7 @@ Welcome to Bald Money where I celebrate champions and reveal the rip-offs.
 </div>
 
 ## Join The Revolution
-BaldMoney is open source, meaning anyone can contribute. Whether it's writing about a rip-off to avoid, or helping to update the [Best Of](best-forex.md) tables for everyone's benefit. 
+BaldMoney is open source, meaning anyone can contribute. Whether it's writing about a rip-off to avoid, or helping to update the [Best Of](best-of/best-forex.md) tables for everyone's benefit. 
 
 **Let's name and shame the companies taking advantage and praise those putting us first.**
 

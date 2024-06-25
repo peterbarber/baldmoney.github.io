@@ -14,7 +14,8 @@ nav:
   - Blog:
       - blog/index.md
   - Best Of:
-    - Best Forex: best-forex.md
+    - Best International Money Transfer Services: best-of/best-forex.md
+    - Best High Interest Savings Account: best-of/savings-account.md
   - Retirement Rip-Off:
     - Are You Being Screwed By Your Retirement Fund?: screwed-by-superfund.md
     - Best Super/Retirement Fund (Australia): best-super-fund.md
@@ -31,6 +32,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  analytics:
+    provider: google
+    property: G-JS1TPL3F0D
 
 plugins:
   - blog:
