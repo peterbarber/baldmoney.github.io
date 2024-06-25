@@ -1,6 +1,6 @@
 ---
 title: "Best International Money Transfer Services"
-date: 2024-10-06
+date: 2024-06-10
 ---
 
 # Best International Money Transfer Services
@@ -23,4 +23,4 @@ exchange rate markup tends to be hidden away in their fee schedule.
 
 !!! Info "Can you help?"
     
-    Want to contribute and help me keep this comparison up to date? See [How to Contribute](contribute.md)
+    Want to contribute and help me keep this comparison up to date? See [How to Contribute](/contribute.md)
