@@ -4,7 +4,7 @@ date: 2024-06-22
 ---
 
 
-# Best High Interest Savings Accounts
+# Best High Interest Savings Accounts (Australia)
 
 | Rank | Bank Account                                                                 | Interest Rate | Conditions                                              |
 |------|------------------------------------------------------------------------------|---------------|---------------------------------------------------------|

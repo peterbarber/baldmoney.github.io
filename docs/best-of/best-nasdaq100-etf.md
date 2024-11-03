@@ -3,7 +3,7 @@ title: "Best NASDAQ 100 ETF in UK market"
 date: 2024-06-29
 ---
 
-# Best NASDAQ 100 ETF
+# Best NASDAQ 100 ETF (Australia & UK)
 
 ## UK market
 
