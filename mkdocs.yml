@@ -37,6 +37,10 @@ extra:
   analytics:
     provider: google
     property: G-JS1TPL3F0D
+  social:
+    - icon: fontawesome/brands/facebook
+      name: Baldmoney on Facebook
+      link: https://www.facebook.com/baldmoney/
 
 plugins:
   - blog:
