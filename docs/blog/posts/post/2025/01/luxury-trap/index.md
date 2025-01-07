@@ -4,6 +4,8 @@ date: 2025-01-07
 applicable location: international
 ---
 
+![](images/wheat.jpg)
+
 *Sapiens* by Yuval Noah Harari makes you think twice about what we call "progress". We often think of big changes like the **Agricultural Revolution** as a massive win for humans, but Harari flips that idea on its head. He suggests it might actually be "history’s biggest fraud". It's like we thought we were getting a great deal, but ended up with the short end of the stick.
 <!-- more -->
 
@@ -19,3 +21,6 @@ So, the parallel is this:
 4. We're not necessarily happier**. Just like agriculture didn't bring about the paradise we thought it would, the constant pursuit of material goods often leaves us feeling stressed and unfulfilled.
 
 Perhaps we should be a bit more critical about what we think of as progress. Instead of just chasing after the next material thing, maybe we should focus on things that genuinely bring us joy and meaning: spending time with people we care about, pursuing hobbies, and having experiences. Maybe we should try not to fall for the same old trap that our ancestors did.  **It's about stepping back and asking ourselves if all this "progress" is actually making us any happier**, or if we're just stuck in a cycle of wanting more.
+
+!!! Info "Gemini AI was used in the creation of this post"
+
