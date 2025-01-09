@@ -1,6 +1,5 @@
 # Bald Money
 
-
 ![](images/100-dollar.jpg)
 
 ## Tired of being ripped off? 

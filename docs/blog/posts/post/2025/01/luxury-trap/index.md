@@ -19,6 +19,19 @@ Think about it: our hunter-gatherer ancestors, they had a pretty good thing goin
 
 Now, that might sound pretty far removed from our lives today, but think about the modern "luxury trap" we're in. It's kind of the same thing, just with shiny gadgets and constant online shopping instead of crops and livestock. We're constantly told we need more stuff, that if we just get that new phone, the latest fashion item, or whatever, we’ll be happier. But, just like with farming, all this extra stuff actually takes up our time and energy. We have to manage, clean, worry about all our possessions, and that takes time away from things that actually make us happy. It's all a bit ironic, isn't it? We work so hard to buy these things, but then they end up owning us in a way.
 
+!!! Info inline end ""
+
+    <a href="https://www.amazon.com/dp/0099590085/ref=nosim?tag=baldmoney-20">
+    ![](images/sapiens.jpg)
+    </a>
+
+    ??? Info "Commission earned on links"
+
+        The links to Amazon.com on this page are referal links. If you click on them and make a purchase, 
+        I will earn a small commission. This helps me to keep the site running and continue to provide free content. 
+        Thank you for your support!
+
+
 So, the parallel is this:
 
 1. Both the Agricultural Revolution and the luxury trap seem like steps forward, but they can make our lives more 
@@ -40,15 +53,8 @@ Maybe we should try not to fall for the same old trap that our ancestors did.
 **It's about stepping back and asking ourselves if all this "progress" is actually making us any happier**, 
 or if we're just stuck in a cycle of wanting more.
 
-!!! Info "Gemini AI was used in the creation of this post"
+!!! Note "Gemini AI was used in the creation of this post"
 
-!!! Info "Sapiens: A Brief History of Humankind on Amazon.com"
-
-    <a href="https://www.amazon.com/dp/0099590085/ref=nosim?tag=baldmoney-20">
-    ![](images/sapiens.jpg)
-    </a>
-
-    
 
 
 
