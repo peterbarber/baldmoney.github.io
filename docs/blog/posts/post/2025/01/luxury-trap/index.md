@@ -6,8 +6,6 @@ applicable location: international
 
 ![](images/wheat.jpg)
 
-
-
 [*Sapiens* by Yuval Noah Harari](https://www.amazon.com/dp/0099590085/ref=nosim?tag=baldmoney-20) makes you think 
 twice about what we call "progress". We often think of big changes like the 
 **[Agricultural Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution)** as a massive 
