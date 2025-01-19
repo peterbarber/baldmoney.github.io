@@ -1,6 +1,6 @@
 # Bald Money
 
-![](images/100-dollar.jpg)
+![](images/aus100.jpg)
 
 ## Tired of being ripped off? 
 
